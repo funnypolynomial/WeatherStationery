@@ -20,3 +20,5 @@ A PCB acts as the front face of the enclosure and circuitry for a small Arduino 
 The Gerber files for the PCB are in the resources folder, along with the [Inksnek](https://github.com/funnypolynomial/inksnek) code to create the laser-cut enclosure.
 
 ![bits](https://github.com/user-attachments/assets/e33a980e-b514-4326-807e-6e731ec4a9ce)
+
+For more, see the [Hackaday project](https://hackaday.io/project/203309-weatherstationery)
