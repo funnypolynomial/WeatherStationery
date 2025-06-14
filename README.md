@@ -1,5 +1,5 @@
 # WeatherStationery
-Arduino weather station on a paper display with a simple stroked-line font.
+Arduino weather station on an ePaper display with a simple stroked-line font.
 
 ![front](https://github.com/user-attachments/assets/937dfdfc-28d7-46b3-8bc9-725763887ddf)
 
