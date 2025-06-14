@@ -2,19 +2,19 @@
 '''
 WeatherStationery enclosure
 Plywood Rimu Stain 3mm
--- nope, 3mm acrylic
+-- NOPE, 3mm acrylic (wood was too warped)
 
 enclosure is an outer shell, PCB sits inside. 
-additional plates on the inside top and bottom
+additional plates on the inside top and bottom (NOTE: top inside plate not used)
 back plate sits inside
 box/finger joints
 From the front, the enclosure is
 * a PCB acting as the front plate, plain but with a square void for the ePaper display and 4 holes in the corners
 * the display PCB pressed against the inside of the front plate, attached are 4 standoffs which connect back to the clamp plate
-* an internal wood clamp plate, attached to the display PCB and to the front plate, via screws
+* an internal clamp plate, attached to the display PCB and to the front plate, via screws
 * the Arduino PCB with ATMEL board on the front side, 8-lead connector to the display, 2 leads to USB breakout, pressure sensor on the back side
-* an internal wood PCB support for the Arduino PCB, attached to the clamp plate with standoffs, with a void for the sensor
-* the wooden back plate of the enclosure, with a void for the sensor
+* an internal PCB support for the Arduino PCB, attached to the clamp plate with standoffs, with a void for the sensor
+* the back plate of the enclosure, with a void for the sensor
 * a pierced cap over the sensor void
 
 '''
