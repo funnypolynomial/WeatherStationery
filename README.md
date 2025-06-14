@@ -21,3 +21,6 @@ The Gerber files for the PCB are in the resources folder, along with the [Inksne
 
 ![bits](https://github.com/user-attachments/assets/e33a980e-b514-4326-807e-6e731ec4a9ce)
 
+More details at [Hackaday](https://hackaday.io/project/203309-weatherstationery)
+
+More photos at [Flickr](https://flic.kr/s/aHBqjChSU9)
