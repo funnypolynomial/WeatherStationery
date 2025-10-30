@@ -32,6 +32,10 @@
 //  blank or N/A, but optionally, a random forcast, greyed out, can be shown, for entertainment.
 //  In general, the forecast should *NOT* be taken seriously!
 //  The display is https://www.jaycar.co.nz/duinotech-arduino-compatible-1-54-inch-monochrome-e-ink-display/p/XC3747
+//  NOTE: There are variations on this board.  This sketch currently only works with one that works with the epd1in54b sample.
+//        See https://media.jaycar.co.nz/product/resources/XC3747_manualMain_97034.pdf?_gl=1*1orodm1*_gcl_au*MTIyMTI4MTkxNS4xNzU3MDI2OTM2
+//        and https://media.jaycar.co.nz/product/resources/XC3747_softwareMain_97033.zip?_gl=1*1orodm1*_gcl_au*MTIyMTI4MTkxNS4xNzU3MDI2OTM2
+//        and Display.cpp
 //  The sensor is, for example, https://www.jaycar.co.nz/duinotech-arduino-compatible-barometric-pressure-sensor/p/XC3702
 //
 // --- Why:
